@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "site": "my-awesome-project",
+    "public": "public"
+  }
+}
